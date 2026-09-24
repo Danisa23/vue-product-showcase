@@ -21,8 +21,8 @@
           <v-btn
             color="primary"
             size="large"
-            href="#catalogo"
             class="hero-btn"
+            @click="scrollToCatalogo"
           >
             Explorar productos
             <AppIcon name="arrow-right" :size="18" />
@@ -88,6 +88,17 @@
 import AppIcon from './AppIcon.vue'
 
 const baseUrl = process.env.BASE_URL
+
+const scrollToCatalogo = () => {
+  const catalogo = document.getElementById('catalogo')
+
+  if (catalogo) {
+    catalogo.scrollIntoView({
+      behavior: 'smooth',
+      block: 'start',
+    })
+  }
+}
 </script>
 
 <style scoped>
