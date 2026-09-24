@@ -1,0 +1,15 @@
+{
+  "products": [
+    {"id":1,"title":"Laptop API","price":1199,"rating":4.7,"stock":15,"brand":"API Brand","description":"Dato 1","category":"laptops"},
+    {"id":2,"title":"Audio API","price":179,"rating":4.6,"stock":19,"brand":"API Brand","description":"Dato 2","category":"mobile-accessories"},
+    {"id":3,"title":"Phone API","price":749,"rating":4.5,"stock":14,"brand":"API Brand","description":"Dato 3","category":"smartphones"},
+    {"id":4,"title":"Watch API","price":219,"rating":4.4,"stock":10,"brand":"API Brand","description":"Dato 4","category":"mobile-accessories"},
+    {"id":5,"title":"Keyboard API","price":129,"rating":4.8,"stock":8,"brand":"API Brand","description":"Dato 5","category":"mobile-accessories"},
+    {"id":6,"title":"Mouse API","price":79,"rating":4.6,"stock":25,"brand":"API Brand","description":"Dato 6","category":"mobile-accessories"},
+    {"id":7,"title":"Tablet API","price":549,"rating":4.7,"stock":13,"brand":"API Brand","description":"Dato 7","category":"tablets"},
+    {"id":8,"title":"Camera API","price":109,"rating":4.5,"stock":17,"brand":"API Brand","description":"Dato 8","category":"mobile-accessories"}
+  ],
+  "total": 8,
+  "skip": 0,
+  "limit": 8
+}

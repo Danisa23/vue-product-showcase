@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 104" role="img" aria-labelledby="title desc">
+  <title id="title">TechStore</title>
+  <desc id="desc">Logotipo TechStore con carrito digital en azul y blanco sobre fondo transparente.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58E8FF"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(4 11)">
+    <path d="M7 7h14l8.8 40.5h45.7l9-31.5H33" fill="none" stroke="#F8FBFF" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="41" cy="62" r="6.7" fill="#F8FBFF"/>
+    <circle cx="72" cy="62" r="6.7" fill="#F8FBFF"/>
+    <rect x="48" y="1" width="11" height="11" rx="2.5" fill="url(#blue)"/>
+    <rect x="62" y="10" width="11" height="11" rx="2.5" fill="url(#blue)"/>
+    <rect x="48" y="19" width="11" height="11" rx="2.5" fill="url(#blue)"/>
+    <rect x="34" y="10" width="11" height="11" rx="2.5" fill="url(#blue)"/>
+  </g>
+  <text x="106" y="59" font-family="Inter, Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1.4" fill="#F8FBFF">Tech</text>
+  <text x="219" y="59" font-family="Inter, Arial, Helvetica, sans-serif" font-size="49" font-weight="800" letter-spacing="-1.4" fill="#4F9CFF">Store</text>
+  <text x="108" y="83" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12.5" font-weight="600" letter-spacing="3.8" fill="#8FA6C3">TECNOLOGÍA A TU ALCANCE</text>
+</svg>

@@ -1,0 +1,15 @@
+TECHSTORE · VUE PRODUCT SHOWCASE
+
+1. Abre esta carpeta en Visual Studio Code.
+2. Ejecuta: npm install
+3. Ejecuta: npm run serve
+4. Abre: http://localhost:8080
+
+PRUEBAS UNITARIAS
+npm run test:unit
+
+PRUEBA E2E
+Mantén npm run serve ejecutándose en una terminal.
+En otra terminal ejecuta: npm run test:e2e
+
+La aplicación usa tema oscuro por defecto. El botón superior permite alternar tema claro/oscuro.
